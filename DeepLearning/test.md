@@ -13,3 +13,7 @@ print("Hello, World!")
 print('hello world!')
 ```
 
+```c
+printf("拜拜");
+```
+正文`printf`
